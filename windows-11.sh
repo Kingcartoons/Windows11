@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/Kingcartoons/Windows11/blob/main/ngrok.sh > /dev/null 2>&1
+wget -O ng.sh https://raw.githubusercontent.com/Kingcartoons/Windows11/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
