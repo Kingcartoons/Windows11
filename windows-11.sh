@@ -1,6 +1,6 @@
 wget -O ng.sh https://raw.githubusercontent.com/Kingcartoons/Windows11/main/ngrok.sh > /dev/null 2>&1
-chmod +x ng.sh
-./ng.sh
+chmod +x grok.sh
+./ngrok.sh
 
 
 function goto
